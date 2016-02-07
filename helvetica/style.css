@@ -6,6 +6,13 @@ src: local('Helvetica Neue'), url('helveticaneue-webfont.woff') format('woff');
 }
 
 @font-face {
+font-family: 'HelveticaNeue';
+font-style: normal;
+font-weight: normal;
+src: local('HelveticaNeue'), url('HelveticaNeue.woff') format('woff');
+}
+
+@font-face {
 font-family: 'Helvetica Neue Light';
 font-style: normal;
 font-weight: normal;

@@ -25,5 +25,5 @@ src: local('Myriad Medium'), url('HelveticaNeueMedium.woff') format('woff');
 font-family: 'Helvetica Regular';
 font-style: normal;
 font-weight: normal;
-src: local('Myriad Regular'), url('hhelveticaneueroman.woff') format('woff');
+src: local('Myriad Regular'), url('helveticaneueroman.woff') format('woff');
 }

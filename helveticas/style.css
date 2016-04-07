@@ -25,5 +25,5 @@ src: local('Helvetica Medium'), url('HelveticaNeueMedium.woff') format('woff');
 font-family: 'Helvetica Roman';
 font-style: normal;
 font-weight: normal;
-src: local('Helvetica Roman'), url('helveticaneueroman.woff') format('woff');
+src: local('Helvetica Roman'), url('helveticaneuecyr-thin-webfont.woff') format('woff');
 }

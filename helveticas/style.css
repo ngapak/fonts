@@ -22,8 +22,8 @@ src: local('Helvetica Medium'), url('HelveticaNeueMedium.woff') format('woff');
 }
 
 @font-face {
-font-family: 'Helvetica Regular';
+font-family: 'Helvetica Roman';
 font-style: normal;
 font-weight: normal;
-src: local(Helvetica Regular'), url('helveticaneueroman.woff') format('woff');
+src: local('Helvetica Roman'), url('helveticaneueroman.woff') format('woff');
 }

@@ -1,0 +1,20 @@
+@font-face {
+font-family: 'Helvetica Neue Cyr Light';
+font-style: normal;
+font-weight: normal;
+src: local('Helvetica Neue Cyr Light'), url('HelveticaNeueCyr-light.woff') format('woff');
+}
+
+@font-face {
+font-family: 'Helvetica Neue Thin';
+font-style: normal;
+font-weight: normal;
+src: local('Helvetica Neue Thin'), url('HelveticaNeueW0135Thin.woff') format('woff');
+}
+
+@font-face {
+font-family: 'Helvetica Neue Light';
+font-style: normal;
+font-weight: normal;
+src: local('Helvetica Neue Light'), url('HelveticaNeueW0145-Light.woff') format('woff');
+}

@@ -2,26 +2,26 @@
 font-family: 'Helvetica Light';
 font-style: normal;
 font-weight: normal;
-src: local('Myriad Light'), url('helveticaneuecyr-light-webfont.woff') format('woff');
+src: local('Helvetica Light'), url('helveticaneuecyr-light-webfont.woff') format('woff');
 }
 
 @font-face {
 font-family: 'Helvetica Thin';
 font-style: normal;
 font-weight: normal;
-src: local('Myriad Thin'), url('helveticaneuecyr-thin-webfont.woff') format('woff');
+src: local('Helvetica Thin'), url('helveticaneuecyr-thin-webfont.woff') format('woff');
 }
 
 @font-face {
 font-family: 'Helvetica Medium';
 font-style: normal;
 font-weight: normal;
-src: local('Myriad Medium'), url('HelveticaNeueMedium.woff') format('woff');
+src: local('Helvetica Medium'), url('HelveticaNeueMedium.woff') format('woff');
 }
 
 @font-face {
-font-family: 'Helvetica Regular';
+font-family: 'Helvetica Roman';
 font-style: normal;
 font-weight: normal;
-src: local('Myriad Regular'), url('hhelveticaneueroman.woff') format('woff');
+src: local('Helvetica Roman'), url('helveticaneuecyr-thin-webfont.woff') format('woff');
 }
